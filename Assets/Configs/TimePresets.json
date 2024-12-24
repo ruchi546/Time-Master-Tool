@@ -1,0 +1,40 @@
+{
+    "presets": [
+        {
+            "timeOfDay": 9.84000015258789,
+            "timeSpeed": 0.0,
+            "fogEnabled": true,
+            "isRaining": true,
+            "isSnowing": false,
+            "cloudsActive": true,
+            "presetName": "Test Preset 01"
+        },
+        {
+            "timeOfDay": 20.790000915527345,
+            "timeSpeed": 0.0,
+            "fogEnabled": true,
+            "isRaining": false,
+            "isSnowing": false,
+            "cloudsActive": false,
+            "presetName": "Test Preset 02"
+        },
+        {
+            "timeOfDay": 11.670000076293946,
+            "timeSpeed": 0.0,
+            "fogEnabled": false,
+            "isRaining": true,
+            "isSnowing": false,
+            "cloudsActive": true,
+            "presetName": "Test Preset 03"
+        },
+        {
+            "timeOfDay": 7.773799896240234,
+            "timeSpeed": 0.0,
+            "fogEnabled": false,
+            "isRaining": false,
+            "isSnowing": true,
+            "cloudsActive": true,
+            "presetName": "Test Preset 04"
+        }
+    ]
+}
